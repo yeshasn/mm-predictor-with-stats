@@ -24,7 +24,7 @@ The first part of this whole project was figuring out which statistics I needed 
 - Steals
 
 ### Gathering the data 
-For this project, I used [sportsreference's API](https://sportsipy.readthedocs.io/en/latest/ncaab.html#module-sportsipy.ncaab.teams) which was an efficient way 
+For this project, I used [sportsreference's API](https://sportsipy.readthedocs.io/en/latest/ncaab.html#module-sportsipy.ncaab.teams) which was an efficient way to gather and use the data. 
 
 ### Trial and error
 The initial idea was relatively simple. First, I would enter in the two team names that I would like to compare and get their respective dataframes (a simple way of accessing the season stats of each team). These dataframes were passed into a compare method which would take a category, see which team was better in the certain category, and finally, increment the "score" of whichever team was better in said category.
