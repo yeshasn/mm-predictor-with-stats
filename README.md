@@ -53,6 +53,7 @@ The final addition I made to the program was to factor in strength of schedule a
 
 # Conclusion and final thoughts
 Original program (no strength of schedule and pace): 1030 points
+
 Modified program (with strength of schedule and pace): 1010 points
 
 Overall, I had the right idea. However, I concluded that March Madness was simply too unpredictable, hence the name "madness". There are a number of factors that could not be accounted for such as injuries, ejections, and buzzer beaters. Were there factors that I forgot to include? Yes, I missed out on 3 point %, turnover-assist ratio, and much more. It seems as if in collegiate championships, seeding doesn't matter but effort does, which is why upsets happen. The program was able to pick up on a few statistical upsets (such as Ohio over Virginia and ACU over Texas), but not the ones where effort and determination played a major role (such as UCLA's final 4 run). 
