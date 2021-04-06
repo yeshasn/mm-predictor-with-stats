@@ -52,7 +52,7 @@ Doing this fixed the problem of unequal stats, but brought up another problem. I
 The final addition I made to the program was to factor in strength of schedule and pace (# of possessions per game). Strength of schedule was necessary as some teams had relatively easier schedules than others, meaning this needed to be factored in. Pace was added in order to make the max amount of points an odd number (to avoid ties). These categories were weighted 2 and 3 respectively. This addition changed the bracket quite a bit, so I made a seperate bracket labeled "modified program" for this.
 
 # Conclusion and final thoughts
-Original program (no strength of schedule and pace): 1030 points \n
+Original program (no strength of schedule and pace): 1030 points
 
 Modified program (with strength of schedule and pace): 1010 points
 
