@@ -1,1 +1,1 @@
-Attached is the prediction with strength of schedule and pace as a factor
+Attached is the prediction with strength of schedule and pace as factors.
